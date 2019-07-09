@@ -1,0 +1,2 @@
+# SistemInventoriBarang
+Sistem Inventori Barang
